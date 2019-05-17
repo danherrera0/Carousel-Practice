@@ -4,6 +4,11 @@
   justify-content: space-between;
 }
 
+
+#nav{
+  display: flex;
+  justify-content: center;
+}
 .main-img{
   width:450px;
   height:300px;
